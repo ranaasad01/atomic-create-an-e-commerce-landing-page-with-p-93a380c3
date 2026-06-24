@@ -124,7 +124,7 @@ const testimonials = [
     location: "Copenhagen",
     avatar: "https://www.rmcad.edu/wp-content/uploads/2024/07/shutterstock_600343619-scaled.jpg",
     rating: 5,
-    text: "Every piece I have ordered from Lumière has exceeded my expectations. The ceramic vase is a centerpiece in my living room and I get compliments every week.",
+    text: "Every piece I have ordered from Lumière has exceeded my expectations. The ceramic vase is a centerpiece in my living room.",
   },
   {
     id: "t2",
